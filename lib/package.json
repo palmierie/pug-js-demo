@@ -1,0 +1,10 @@
+{
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {
+    "pug": "2.0.0-rc.4"
+  }
+}
